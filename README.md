@@ -10,3 +10,5 @@ password: admin123
 and there you can change all.
 
 Thanks :)
+
+ignore FAQ in admin account and the game is on german.
